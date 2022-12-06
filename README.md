@@ -1,1 +1,1 @@
-# csdt2223ki48marynchukov13
+Student: Oleksandr Marynchuk Group: CE 48 Subject: CSDT Project name: chrome dragon game HW interface: SPI Data driven format: XML
